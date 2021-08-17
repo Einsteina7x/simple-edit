@@ -3,13 +3,10 @@ echo
 echo "
    < ━━━━━━━━━ [★] T E R M U X [★] ━━━━━━━━━━━━ >  " |lolcat
 echo
-    echo "  Nós somos o anônimos" |lolcat
-
 
 figlet    '    ANNKLIN' |lolcat
 
 echo "
-                          OLOKINHOMEU
    < ━━━━━━━━━ [★] T E R M U X [★] ━━━━━━━━━━━━ > " |lolcat
 
 

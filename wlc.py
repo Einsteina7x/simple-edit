@@ -1,8 +1,6 @@
-import os,sys,time,random
+import os,sys,time
 print("")
 print("")
-color = ["\033[1;31m","\033[1;32m"]
-m = random.choice(color)+"Bem-vinda ANNKLIN \n"
 for msg in m:
     sys.stdout.write(msg)
     sys.stdout.flush()
